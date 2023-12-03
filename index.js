@@ -6,7 +6,7 @@ const map = [];
 const treasures = [];
 const dimensione = 20;
 const numero_tesori = 20;
-const min_time = 500;
+const min_time = 2000;
 
 const watchers = [];
 
